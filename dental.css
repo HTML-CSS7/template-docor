@@ -1,0 +1,46 @@
+.photo
+{
+background-image:url("Bottom_texture.jpg" );
+background-repeat:repeat-y;
+}
+.center
+{
+  text-align:center
+}
+h1
+{
+font-size:50px;
+}
+h2
+{font-size:30px;
+}
+.serif
+{
+font-family:"Ravie",serif;
+}
+.font1
+{
+font-family:"Brush Script MT",serif;
+}
+.font2
+{
+font-family:"Matura MT Script Capitals",serif;
+}
+
+.font3
+{
+font-family:"Algerian",serif;
+}
+.font4
+{
+font-family:"Colonna MT",serif;
+}
+.font5
+{
+font-family:"Script MT Bold",serif;
+}
+
+.box
+{
+width:1300 px ;padding:5 px;border:20px  solid white;margin:0px;align:center;
+}
